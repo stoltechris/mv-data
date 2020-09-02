@@ -20,9 +20,15 @@
 		},
 		{
 			"label": "Terkoy",
-			"hue": 171,
+			"hue": 75,
 			"saturation": 53,
 			"lightness": 58
+		},
+		{
+			"label": "Medium Gray",
+			"hue": 180,
+			"saturation": 0,
+			"lightness": 67
 		}
 	]
 }

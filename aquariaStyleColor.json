@@ -14,8 +14,14 @@
 		},
 		{
 			"label": "Yeller",
-			"hue": 51,
-			"saturation": 83,
+			"hue": 232,
+			"saturation": 44,
+			"lightness": 74
+		},
+		{
+			"label": "color name",
+			"hue": 180,
+			"saturation": 69,
 			"lightness": 80
 		},
 		{
@@ -23,12 +29,6 @@
 			"hue": 75,
 			"saturation": 53,
 			"lightness": 58
-		},
-		{
-			"label": "Medium Gray",
-			"hue": 180,
-			"saturation": 0,
-			"lightness": 67
 		}
 	]
 }

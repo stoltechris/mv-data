@@ -1,0 +1,16 @@
+{
+	"colorSwatch": [
+		{
+			"label": "Primary highlight",
+			"hue": 180,
+			"saturation": 48,
+			"lightness": 61
+		},
+		{
+			"label": "graaay",
+			"hue": 180,
+			"saturation": 0,
+			"lightness": 92
+		}
+	]
+}

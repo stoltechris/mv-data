@@ -11,6 +11,16 @@
 			"hue": 293,
 			"saturation": 66,
 			"lightness": 50
+		},
+		{
+			"hue": 180,
+			"saturation": 31,
+			"lightness": 80
+		},
+		{
+			"hue": 180,
+			"saturation": 65,
+			"lightness": 80
 		}
 	]
 }

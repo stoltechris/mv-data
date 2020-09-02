@@ -7,17 +7,19 @@
 			"lightness": 61
 		},
 		{
-			"label": "graaay",
+			"label": "Graaay",
 			"hue": 293,
 			"saturation": 66,
 			"lightness": 50
 		},
 		{
-			"hue": 180,
-			"saturation": 31,
+			"label": "Yeller",
+			"hue": 51,
+			"saturation": 83,
 			"lightness": 80
 		},
 		{
+			"label": "Terkoys",
 			"hue": 180,
 			"saturation": 65,
 			"lightness": 80
